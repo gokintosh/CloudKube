@@ -28,4 +28,4 @@ jobs:
           distribution: 'adopt'
 
       - name: Build with gradle
-        run: ./gadlew build
+        run: ./gradlew build
