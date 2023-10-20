@@ -21,4 +21,4 @@ jobs:
           cache: maven
 
       - name: Build with maven
-        run: ./mvnw -B test
+        run: ./gadlew build
